@@ -124,4 +124,4 @@ O desenvolvimento utiliza branches por etapa, com Pull Requests para a branch `d
 
 O vídeo apresenta o objetivo do projeto, sua execução, a organização das tarefas e branches, as escolhas técnicas e as melhorias possíveis.
 
-**Link do vídeo:** será adicionado após a gravação.
+[Assistir ao vídeo de apresentação](https://drive.google.com/file/d/182HJvaaeOqzdzKzLoGM85ZZ1FuQBTePE/view?usp=drive_link)
